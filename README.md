@@ -8,7 +8,7 @@ A responsive SaaS landing page template built with static HTML, Tailwind CSS v4,
 
 This project was built with Nguyễn Đức Đạt.
 
-Project này được xây dựng với Nguyễn Đức Đạt. Dự án phục vụ cho việc học tập và không sử dụng cho mục đích thương mại.
+This project is created for learning and academic purposes only. It is not intended for commercial use.
 
 ## Overview
 
