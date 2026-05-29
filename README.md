@@ -4,6 +4,12 @@ A responsive SaaS landing page template built with static HTML, Tailwind CSS v4,
 
 [Live Demo](https://capstone-nextjstemplates-ukl7.vercel.app/)
 
+## Author and Usage
+
+This project was built with Nguyễn Đức Đạt.
+
+Project này được xây dựng với Nguyễn Đức Đạt. Dự án phục vụ cho việc học tập và không sử dụng cho mục đích thương mại.
+
 ## Overview
 
 This template is designed for SaaS, startup, product, and software landing pages. It includes a complete marketing homepage, supporting pages, dark mode, responsive navigation, animated sections, pricing cards, testimonials, FAQ, contact form UI, blog cards, and reusable visual assets.
