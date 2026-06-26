@@ -4,9 +4,7 @@ A responsive SaaS landing page template built with static HTML, Tailwind CSS v4,
 
 [Live Demo](https://capstone-nextjstemplates-ukl7.vercel.app/)
 
-## Author and Usage
-
-This project was built with Nguyễn Đức Đạt.
+## Usage
 
 This project is created for learning and academic purposes only. It is not intended for commercial use.
 
